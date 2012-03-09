@@ -1,0 +1,21 @@
+CCCCPPSSEEE
+
+C - City (eg. WHTH for Whitehorse)
+P - Provice (eg. YT for Yukon)
+S - Site (eg. CM for Canyon Mountain)
+E - Equipment (see below)
+
+Equipment naming:
+
+ABC
+
+AB - equipment type
+C  - equipment number
+
+ES - ethernet switch
+TS - TDM switch
+TG - TDM gateway
+IR - IP router
+ST - SS7 transfer point (STP)
+SC - SS7 control point (SCP)
+SS - SS7 switching point (SSP)

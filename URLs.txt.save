@@ -1,0 +1,7 @@
+url:
+  get-configs.php?switchname=%s&section=%s&rev=%s
+
+switchname is name of switch (eg. whthytst01t [see http://www.ckts.info/clli.php])
+
+section is which section of the freeswitch config is being requested.
+sofia-trunks
